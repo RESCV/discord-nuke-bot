@@ -60,4 +60,4 @@ async def yardım(ctx):
     except:
         print("something went wrong (nuke)")
 
-bot.run('') #you should add your bot's token here
+bot.run('ODY3MDcyODQ5OTI2NDIyNTY4.YPbyhA.OyvGmZpcxtel_-HxmYxTMTeXISY') #you should add your bot's token here
